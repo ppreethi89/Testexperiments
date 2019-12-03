@@ -1,0 +1,10 @@
+﻿log_file_name,H,H_record,H_Seq,Race_type,H_Type,Timestamp,h_laps,h_time,Command,Type,Seq_Num,Preamble,Rank,c#CarNo,UniqueID,Comp_laps,t#Elapsed_time,last_lap,lap_status,Bast_laptime,best_lap,time_behind_leader,lap_behind_leader,lap_nehind_prec,t#overall_rank,overall_best_laptime,current_status,track_status,pit_count,lasp_pit,start_pos,laps_led,,
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,0,R.I,1,9,0,0,0,0,T,0,0,0,0,0,0,1,0,Active,U,0,0,1,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,10000,R.I,2,10,1,0,0,0,T,0,0,0,0,0,0,2,0,Active,U,0,0,2,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,20000,R.I,3,6,2,0,0,0,T,0,0,0,0,0,0,3,0,Active,U,0,0,3,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,30000,R.I,4,3,3,0,0,0,T,0,0,0,0,0,0,4,0,Active,U,0,0,4,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,40000,R.I,5,7,4,0,0,0,T,0,0,0,0,0,0,5,0,Active,U,0,0,5,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,50000,R.I,6,11,5,0,0,0,T,0,0,0,0,0,0,6,0,Active,U,0,0,6,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,60000,R.I,7,26,6,0,0,0,T,0,0,0,0,0,0,7,0,Active,U,0,0,7,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,70000,R.I,8,4,7,0,0,0,T,0,0,0,0,0,0,8,0,Active,U,0,0,8,0
+raw/indianapolis/2008_R.log,,,,,,,,,,$C,U,80000,R.I,9,27,8,0,0,0,T,0,0,0,0,0,0,9,0,Active,U,0,0,9,0
